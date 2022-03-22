@@ -4,8 +4,8 @@ export const greetings = {
 	name: "Theodore Idoko",
 	title: "Hi all, I'm Theodore",
 	description:
-		"I am a Frontend developer who also have reasonable experience of backend. MERN Stack precisely. I aim at developing and creating human centered design solutions with empathy. JavaScript, React, Bootstrap, CSS/HTML, jQuery, Sass, Node, Nest*, Express, Node Package Manager, API CRUD operation, Database, MongoDb and Mongoose, Deployment, Git and GitHub, Adobe XD, Figma, Zeplin etc. I also have good knowledge of Python and currently enthusiastic to learn Django.",
-	resumeLink: "TcCV.pdf",
+		"I am a Frontend developer who also have reasonable experience of backend. MERN Stack precisely. I aim at developing and creating human centered design solutions with empathy. JavaScript, React, Bootstrap, CSS/HTML, jQuery, Sass, Node, Nest*, Express, Node Package Manager, API CRUD operation, Database, MongoDb and Mongoose, Deployment, Git and GitHub, Adobe XD, Figma etc. I also have good knowledge of Python and currently enthusiastic to learn Django.",
+	resumeLink: "Tech-cv.pdf",
 };
 
 export const openSource = {

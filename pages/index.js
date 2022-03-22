@@ -21,7 +21,7 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "TC PORTFOLIO",
 					description:
-						"A passionate Full Stack Web Developer and Mobile App Developer.",
+						"A passionate Frontend developer who takes pleasure in writing Backend.",
 					//image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 					//url: "https://developer-portfolio-1hanzla100.vercel.app",
 					keywords: [
